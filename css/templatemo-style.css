@@ -529,7 +529,7 @@ a:hover, a:active, a:focus {
 #contact .contact-form,
 #contact .contact-thumb {
   padding: 22px 32px 22px 32px;
-  min-height: 75vh;
+  /*min-height: 75vh;*/
 }
 
 #contact .contact-img {
